@@ -1,0 +1,11 @@
+D:\C# ProblemSolving\InterfacesandAbstraction\MultipleImplementation\bin\Debug\netcoreapp3.0\MultipleImplementation.exe
+D:\C# ProblemSolving\InterfacesandAbstraction\MultipleImplementation\bin\Debug\netcoreapp3.0\MultipleImplementation.deps.json
+D:\C# ProblemSolving\InterfacesandAbstraction\MultipleImplementation\bin\Debug\netcoreapp3.0\MultipleImplementation.runtimeconfig.json
+D:\C# ProblemSolving\InterfacesandAbstraction\MultipleImplementation\bin\Debug\netcoreapp3.0\MultipleImplementation.runtimeconfig.dev.json
+D:\C# ProblemSolving\InterfacesandAbstraction\MultipleImplementation\bin\Debug\netcoreapp3.0\MultipleImplementation.dll
+D:\C# ProblemSolving\InterfacesandAbstraction\MultipleImplementation\bin\Debug\netcoreapp3.0\MultipleImplementation.pdb
+D:\C# ProblemSolving\InterfacesandAbstraction\MultipleImplementation\obj\Debug\netcoreapp3.0\MultipleImplementation.AssemblyInfoInputs.cache
+D:\C# ProblemSolving\InterfacesandAbstraction\MultipleImplementation\obj\Debug\netcoreapp3.0\MultipleImplementation.AssemblyInfo.cs
+D:\C# ProblemSolving\InterfacesandAbstraction\MultipleImplementation\obj\Debug\netcoreapp3.0\MultipleImplementation.dll
+D:\C# ProblemSolving\InterfacesandAbstraction\MultipleImplementation\obj\Debug\netcoreapp3.0\MultipleImplementation.pdb
+D:\C# ProblemSolving\InterfacesandAbstraction\MultipleImplementation\obj\Debug\netcoreapp3.0\MultipleImplementation.csprojAssemblyReference.cache
