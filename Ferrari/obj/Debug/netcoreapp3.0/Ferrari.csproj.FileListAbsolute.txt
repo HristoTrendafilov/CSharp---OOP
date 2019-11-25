@@ -1,0 +1,11 @@
+D:\C# ProblemSolving\InterfacesandAbstraction\Ferrari\bin\Debug\netcoreapp3.0\Ferrari.exe
+D:\C# ProblemSolving\InterfacesandAbstraction\Ferrari\bin\Debug\netcoreapp3.0\Ferrari.deps.json
+D:\C# ProblemSolving\InterfacesandAbstraction\Ferrari\bin\Debug\netcoreapp3.0\Ferrari.runtimeconfig.json
+D:\C# ProblemSolving\InterfacesandAbstraction\Ferrari\bin\Debug\netcoreapp3.0\Ferrari.runtimeconfig.dev.json
+D:\C# ProblemSolving\InterfacesandAbstraction\Ferrari\bin\Debug\netcoreapp3.0\Ferrari.dll
+D:\C# ProblemSolving\InterfacesandAbstraction\Ferrari\bin\Debug\netcoreapp3.0\Ferrari.pdb
+D:\C# ProblemSolving\InterfacesandAbstraction\Ferrari\obj\Debug\netcoreapp3.0\Ferrari.csprojAssemblyReference.cache
+D:\C# ProblemSolving\InterfacesandAbstraction\Ferrari\obj\Debug\netcoreapp3.0\Ferrari.AssemblyInfoInputs.cache
+D:\C# ProblemSolving\InterfacesandAbstraction\Ferrari\obj\Debug\netcoreapp3.0\Ferrari.AssemblyInfo.cs
+D:\C# ProblemSolving\InterfacesandAbstraction\Ferrari\obj\Debug\netcoreapp3.0\Ferrari.dll
+D:\C# ProblemSolving\InterfacesandAbstraction\Ferrari\obj\Debug\netcoreapp3.0\Ferrari.pdb
