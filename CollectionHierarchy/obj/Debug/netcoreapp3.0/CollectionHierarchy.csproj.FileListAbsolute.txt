@@ -1,0 +1,11 @@
+D:\C# ProblemSolving\InterfacesandAbstraction\CollectionHierarchy\bin\Debug\netcoreapp3.0\CollectionHierarchy.exe
+D:\C# ProblemSolving\InterfacesandAbstraction\CollectionHierarchy\bin\Debug\netcoreapp3.0\CollectionHierarchy.deps.json
+D:\C# ProblemSolving\InterfacesandAbstraction\CollectionHierarchy\bin\Debug\netcoreapp3.0\CollectionHierarchy.runtimeconfig.json
+D:\C# ProblemSolving\InterfacesandAbstraction\CollectionHierarchy\bin\Debug\netcoreapp3.0\CollectionHierarchy.runtimeconfig.dev.json
+D:\C# ProblemSolving\InterfacesandAbstraction\CollectionHierarchy\bin\Debug\netcoreapp3.0\CollectionHierarchy.dll
+D:\C# ProblemSolving\InterfacesandAbstraction\CollectionHierarchy\bin\Debug\netcoreapp3.0\CollectionHierarchy.pdb
+D:\C# ProblemSolving\InterfacesandAbstraction\CollectionHierarchy\obj\Debug\netcoreapp3.0\CollectionHierarchy.csprojAssemblyReference.cache
+D:\C# ProblemSolving\InterfacesandAbstraction\CollectionHierarchy\obj\Debug\netcoreapp3.0\CollectionHierarchy.AssemblyInfoInputs.cache
+D:\C# ProblemSolving\InterfacesandAbstraction\CollectionHierarchy\obj\Debug\netcoreapp3.0\CollectionHierarchy.AssemblyInfo.cs
+D:\C# ProblemSolving\InterfacesandAbstraction\CollectionHierarchy\obj\Debug\netcoreapp3.0\CollectionHierarchy.dll
+D:\C# ProblemSolving\InterfacesandAbstraction\CollectionHierarchy\obj\Debug\netcoreapp3.0\CollectionHierarchy.pdb
