@@ -1,0 +1,11 @@
+D:\C# ProblemSolving\InterfacesandAbstraction\BirthdayCelebrations\bin\Debug\netcoreapp3.0\BirthdayCelebrations.exe
+D:\C# ProblemSolving\InterfacesandAbstraction\BirthdayCelebrations\bin\Debug\netcoreapp3.0\BirthdayCelebrations.deps.json
+D:\C# ProblemSolving\InterfacesandAbstraction\BirthdayCelebrations\bin\Debug\netcoreapp3.0\BirthdayCelebrations.runtimeconfig.json
+D:\C# ProblemSolving\InterfacesandAbstraction\BirthdayCelebrations\bin\Debug\netcoreapp3.0\BirthdayCelebrations.runtimeconfig.dev.json
+D:\C# ProblemSolving\InterfacesandAbstraction\BirthdayCelebrations\bin\Debug\netcoreapp3.0\BirthdayCelebrations.dll
+D:\C# ProblemSolving\InterfacesandAbstraction\BirthdayCelebrations\bin\Debug\netcoreapp3.0\BirthdayCelebrations.pdb
+D:\C# ProblemSolving\InterfacesandAbstraction\BirthdayCelebrations\obj\Debug\netcoreapp3.0\BirthdayCelebrations.AssemblyInfoInputs.cache
+D:\C# ProblemSolving\InterfacesandAbstraction\BirthdayCelebrations\obj\Debug\netcoreapp3.0\BirthdayCelebrations.AssemblyInfo.cs
+D:\C# ProblemSolving\InterfacesandAbstraction\BirthdayCelebrations\obj\Debug\netcoreapp3.0\BirthdayCelebrations.dll
+D:\C# ProblemSolving\InterfacesandAbstraction\BirthdayCelebrations\obj\Debug\netcoreapp3.0\BirthdayCelebrations.pdb
+D:\C# ProblemSolving\InterfacesandAbstraction\BirthdayCelebrations\obj\Debug\netcoreapp3.0\BirthdayCelebrations.csprojAssemblyReference.cache
