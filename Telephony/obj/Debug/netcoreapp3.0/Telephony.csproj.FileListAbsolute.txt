@@ -1,0 +1,11 @@
+D:\C# ProblemSolving\InterfacesandAbstraction\Telephony\bin\Debug\netcoreapp3.0\Telephony.exe
+D:\C# ProblemSolving\InterfacesandAbstraction\Telephony\bin\Debug\netcoreapp3.0\Telephony.deps.json
+D:\C# ProblemSolving\InterfacesandAbstraction\Telephony\bin\Debug\netcoreapp3.0\Telephony.runtimeconfig.json
+D:\C# ProblemSolving\InterfacesandAbstraction\Telephony\bin\Debug\netcoreapp3.0\Telephony.runtimeconfig.dev.json
+D:\C# ProblemSolving\InterfacesandAbstraction\Telephony\bin\Debug\netcoreapp3.0\Telephony.dll
+D:\C# ProblemSolving\InterfacesandAbstraction\Telephony\bin\Debug\netcoreapp3.0\Telephony.pdb
+D:\C# ProblemSolving\InterfacesandAbstraction\Telephony\obj\Debug\netcoreapp3.0\Telephony.csprojAssemblyReference.cache
+D:\C# ProblemSolving\InterfacesandAbstraction\Telephony\obj\Debug\netcoreapp3.0\Telephony.AssemblyInfoInputs.cache
+D:\C# ProblemSolving\InterfacesandAbstraction\Telephony\obj\Debug\netcoreapp3.0\Telephony.AssemblyInfo.cs
+D:\C# ProblemSolving\InterfacesandAbstraction\Telephony\obj\Debug\netcoreapp3.0\Telephony.dll
+D:\C# ProblemSolving\InterfacesandAbstraction\Telephony\obj\Debug\netcoreapp3.0\Telephony.pdb
