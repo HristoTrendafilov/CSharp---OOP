@@ -1,0 +1,11 @@
+D:\C# ProblemSolving\InterfacesandAbstraction\BorderControl\bin\Debug\netcoreapp3.0\BorderControl.exe
+D:\C# ProblemSolving\InterfacesandAbstraction\BorderControl\bin\Debug\netcoreapp3.0\BorderControl.deps.json
+D:\C# ProblemSolving\InterfacesandAbstraction\BorderControl\bin\Debug\netcoreapp3.0\BorderControl.runtimeconfig.json
+D:\C# ProblemSolving\InterfacesandAbstraction\BorderControl\bin\Debug\netcoreapp3.0\BorderControl.runtimeconfig.dev.json
+D:\C# ProblemSolving\InterfacesandAbstraction\BorderControl\bin\Debug\netcoreapp3.0\BorderControl.dll
+D:\C# ProblemSolving\InterfacesandAbstraction\BorderControl\bin\Debug\netcoreapp3.0\BorderControl.pdb
+D:\C# ProblemSolving\InterfacesandAbstraction\BorderControl\obj\Debug\netcoreapp3.0\BorderControl.csprojAssemblyReference.cache
+D:\C# ProblemSolving\InterfacesandAbstraction\BorderControl\obj\Debug\netcoreapp3.0\BorderControl.AssemblyInfoInputs.cache
+D:\C# ProblemSolving\InterfacesandAbstraction\BorderControl\obj\Debug\netcoreapp3.0\BorderControl.AssemblyInfo.cs
+D:\C# ProblemSolving\InterfacesandAbstraction\BorderControl\obj\Debug\netcoreapp3.0\BorderControl.dll
+D:\C# ProblemSolving\InterfacesandAbstraction\BorderControl\obj\Debug\netcoreapp3.0\BorderControl.pdb
