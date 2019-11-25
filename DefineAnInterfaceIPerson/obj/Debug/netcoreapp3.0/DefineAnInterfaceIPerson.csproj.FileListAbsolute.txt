@@ -1,0 +1,11 @@
+D:\C# ProblemSolving\InterfacesandAbstraction\DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.0\DefineAnInterfaceIPerson.AssemblyInfoInputs.cache
+D:\C# ProblemSolving\InterfacesandAbstraction\DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.0\DefineAnInterfaceIPerson.AssemblyInfo.cs
+D:\C# ProblemSolving\InterfacesandAbstraction\DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.0\DefineAnInterfaceIPerson.exe
+D:\C# ProblemSolving\InterfacesandAbstraction\DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.0\DefineAnInterfaceIPerson.deps.json
+D:\C# ProblemSolving\InterfacesandAbstraction\DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.0\DefineAnInterfaceIPerson.runtimeconfig.json
+D:\C# ProblemSolving\InterfacesandAbstraction\DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.0\DefineAnInterfaceIPerson.runtimeconfig.dev.json
+D:\C# ProblemSolving\InterfacesandAbstraction\DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.0\DefineAnInterfaceIPerson.dll
+D:\C# ProblemSolving\InterfacesandAbstraction\DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.0\DefineAnInterfaceIPerson.pdb
+D:\C# ProblemSolving\InterfacesandAbstraction\DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.0\DefineAnInterfaceIPerson.dll
+D:\C# ProblemSolving\InterfacesandAbstraction\DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.0\DefineAnInterfaceIPerson.pdb
+D:\C# ProblemSolving\InterfacesandAbstraction\DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.0\DefineAnInterfaceIPerson.csprojAssemblyReference.cache
