@@ -1,0 +1,10 @@
+D:\C# ProblemSolving\InterfacesandAbstraction\ExplicitInterfaces\bin\Debug\netcoreapp3.0\ExplicitInterfaces.exe
+D:\C# ProblemSolving\InterfacesandAbstraction\ExplicitInterfaces\bin\Debug\netcoreapp3.0\ExplicitInterfaces.deps.json
+D:\C# ProblemSolving\InterfacesandAbstraction\ExplicitInterfaces\bin\Debug\netcoreapp3.0\ExplicitInterfaces.runtimeconfig.json
+D:\C# ProblemSolving\InterfacesandAbstraction\ExplicitInterfaces\bin\Debug\netcoreapp3.0\ExplicitInterfaces.runtimeconfig.dev.json
+D:\C# ProblemSolving\InterfacesandAbstraction\ExplicitInterfaces\bin\Debug\netcoreapp3.0\ExplicitInterfaces.dll
+D:\C# ProblemSolving\InterfacesandAbstraction\ExplicitInterfaces\bin\Debug\netcoreapp3.0\ExplicitInterfaces.pdb
+D:\C# ProblemSolving\InterfacesandAbstraction\ExplicitInterfaces\obj\Debug\netcoreapp3.0\ExplicitInterfaces.AssemblyInfoInputs.cache
+D:\C# ProblemSolving\InterfacesandAbstraction\ExplicitInterfaces\obj\Debug\netcoreapp3.0\ExplicitInterfaces.AssemblyInfo.cs
+D:\C# ProblemSolving\InterfacesandAbstraction\ExplicitInterfaces\obj\Debug\netcoreapp3.0\ExplicitInterfaces.dll
+D:\C# ProblemSolving\InterfacesandAbstraction\ExplicitInterfaces\obj\Debug\netcoreapp3.0\ExplicitInterfaces.pdb
