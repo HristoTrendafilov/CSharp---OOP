@@ -1,0 +1,10 @@
+D:\C# ProblemSolving\Polymorphism\VehiclesExtension\bin\Debug\netcoreapp3.0\VehiclesExtension.exe
+D:\C# ProblemSolving\Polymorphism\VehiclesExtension\bin\Debug\netcoreapp3.0\VehiclesExtension.deps.json
+D:\C# ProblemSolving\Polymorphism\VehiclesExtension\bin\Debug\netcoreapp3.0\VehiclesExtension.runtimeconfig.json
+D:\C# ProblemSolving\Polymorphism\VehiclesExtension\bin\Debug\netcoreapp3.0\VehiclesExtension.runtimeconfig.dev.json
+D:\C# ProblemSolving\Polymorphism\VehiclesExtension\bin\Debug\netcoreapp3.0\VehiclesExtension.dll
+D:\C# ProblemSolving\Polymorphism\VehiclesExtension\bin\Debug\netcoreapp3.0\VehiclesExtension.pdb
+D:\C# ProblemSolving\Polymorphism\VehiclesExtension\obj\Debug\netcoreapp3.0\VehiclesExtension.AssemblyInfoInputs.cache
+D:\C# ProblemSolving\Polymorphism\VehiclesExtension\obj\Debug\netcoreapp3.0\VehiclesExtension.AssemblyInfo.cs
+D:\C# ProblemSolving\Polymorphism\VehiclesExtension\obj\Debug\netcoreapp3.0\VehiclesExtension.dll
+D:\C# ProblemSolving\Polymorphism\VehiclesExtension\obj\Debug\netcoreapp3.0\VehiclesExtension.pdb
