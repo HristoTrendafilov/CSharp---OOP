@@ -1,0 +1,11 @@
+D:\C# ProblemSolving\SOLID\Logger\bin\Debug\netcoreapp3.0\Logger.exe
+D:\C# ProblemSolving\SOLID\Logger\bin\Debug\netcoreapp3.0\Logger.deps.json
+D:\C# ProblemSolving\SOLID\Logger\bin\Debug\netcoreapp3.0\Logger.runtimeconfig.json
+D:\C# ProblemSolving\SOLID\Logger\bin\Debug\netcoreapp3.0\Logger.runtimeconfig.dev.json
+D:\C# ProblemSolving\SOLID\Logger\bin\Debug\netcoreapp3.0\Logger.dll
+D:\C# ProblemSolving\SOLID\Logger\bin\Debug\netcoreapp3.0\Logger.pdb
+D:\C# ProblemSolving\SOLID\Logger\obj\Debug\netcoreapp3.0\Logger.csprojAssemblyReference.cache
+D:\C# ProblemSolving\SOLID\Logger\obj\Debug\netcoreapp3.0\Logger.AssemblyInfoInputs.cache
+D:\C# ProblemSolving\SOLID\Logger\obj\Debug\netcoreapp3.0\Logger.AssemblyInfo.cs
+D:\C# ProblemSolving\SOLID\Logger\obj\Debug\netcoreapp3.0\Logger.dll
+D:\C# ProblemSolving\SOLID\Logger\obj\Debug\netcoreapp3.0\Logger.pdb

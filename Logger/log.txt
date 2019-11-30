@@ -1,0 +1,105 @@
+<log>
+<date>3/26/2015 2:08:11 PM</date>
+<level>Info</level>
+<messege>Everything seems fine</messege>
+</log>
+<log>
+<date>3/26/2015 2:22:13 PM</date>
+<level>Warning</level>
+<messege>Warning: ping is too high - disconnect imminent</messege>
+</log>
+<log>
+<date>3/26/2015 2:32:44 PM</date>
+<level>Error</level>
+<messege>Error parsing request</messege>
+</log>
+<log>
+<date>3/26/2015 2:38:01 PM</date>
+<level>Critical</level>
+<messege>No connection string found in App.config</messege>
+</log>
+<log>
+<date>3/26/2015 2:39:19 PM</date>
+<level>Fatal</level>
+<messege>mscorlib.dll does not respond</messege>
+</log>
+<log>
+<date>3/26/2015 2:08:11 PM</date>
+<level>Info</level>
+<messege>Everything seems fine</messege>
+</log>
+<log>
+<date>3/26/2015 2:22:13 PM</date>
+<level>Warning</level>
+<messege>Warning: ping is too high - disconnect imminent</messege>
+</log>
+<log>
+<date>3/26/2015 2:32:44 PM</date>
+<level>Error</level>
+<messege>Error parsing request</messege>
+</log>
+<log>
+<date>3/26/2015 2:38:01 PM</date>
+<level>Critical</level>
+<messege>No connection string found in App.config</messege>
+</log>
+<log>
+<date>3/26/2015 2:39:19 PM</date>
+<level>Fatal</level>
+<messege>mscorlib.dll does not respond</messege>
+</log>
+<log>
+<date>3/26/2015 2:08:11 PM</date>
+<level>Info</level>
+<messege>Everything seems fine</messege>
+</log>
+<log>
+<date>3/26/2015 2:22:13 PM</date>
+<level>Warning</level>
+<messege>Warning: ping is too high - disconnect imminent</messege>
+</log>
+<log>
+<date>3/26/2015 2:32:44 PM</date>
+<level>Error</level>
+<messege>Error parsing request</messege>
+</log>
+<log>
+<date>3/26/2015 2:38:01 PM</date>
+<level>Critical</level>
+<messege>No connection string found in App.config</messege>
+</log>
+<log>
+<date>3/26/2015 2:39:19 PM</date>
+<level>Fatal</level>
+<messege>mscorlib.dll does not respond</messege>
+</log>
+<log>
+<date>3/26/2015 2:08:11 PM</date>
+<level>Info</level>
+<messege>Everything seems fine</messege>
+</log>
+<log>
+<date>3/26/2015 2:22:13 PM</date>
+<level>Warning</level>
+<messege>Warning: ping is too high - disconnect imminent</messege>
+</log>
+<log>
+<date>3/26/2015 2:32:44 PM</date>
+<level>Error</level>
+<messege>Error parsing request</messege>
+</log>
+<log>
+<date>3/26/2015 2:38:01 PM</date>
+<level>Critical</level>
+<messege>No connection string found in App.config</messege>
+</log>
+<log>
+<date>3/26/2015 2:39:19 PM</date>
+<level>Fatal</level>
+<messege>mscorlib.dll does not respond</messege>
+</log>
+<log>
+<date>3/26/2015 2:08:11 PM</date>
+<level>Info</level>
+<messege>Everything seems fine</messege>
+</log>
