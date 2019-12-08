@@ -1,0 +1,8 @@
+D:\C# ProblemSolving\UnitTesting\DatabaseExtended\bin\Debug\netcoreapp2.1\DatabaseExtended.deps.json
+D:\C# ProblemSolving\UnitTesting\DatabaseExtended\bin\Debug\netcoreapp2.1\DatabaseExtended.dll
+D:\C# ProblemSolving\UnitTesting\DatabaseExtended\bin\Debug\netcoreapp2.1\DatabaseExtended.pdb
+D:\C# ProblemSolving\UnitTesting\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.csprojAssemblyReference.cache
+D:\C# ProblemSolving\UnitTesting\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.AssemblyInfoInputs.cache
+D:\C# ProblemSolving\UnitTesting\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.AssemblyInfo.cs
+D:\C# ProblemSolving\UnitTesting\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.dll
+D:\C# ProblemSolving\UnitTesting\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.pdb
