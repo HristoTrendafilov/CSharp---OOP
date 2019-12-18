@@ -1,0 +1,10 @@
+D:\Austranaut\obj\Debug\netcoreapp2.1\SpaceStation.csprojAssemblyReference.cache
+D:\Austranaut\obj\Debug\netcoreapp2.1\SpaceStation.AssemblyInfoInputs.cache
+D:\Austranaut\obj\Debug\netcoreapp2.1\SpaceStation.AssemblyInfo.cs
+D:\Austranaut\bin\Debug\netcoreapp2.1\SpaceStation.deps.json
+D:\Austranaut\bin\Debug\netcoreapp2.1\SpaceStation.runtimeconfig.json
+D:\Austranaut\bin\Debug\netcoreapp2.1\SpaceStation.runtimeconfig.dev.json
+D:\Austranaut\bin\Debug\netcoreapp2.1\SpaceStation.dll
+D:\Austranaut\bin\Debug\netcoreapp2.1\SpaceStation.pdb
+D:\Austranaut\obj\Debug\netcoreapp2.1\SpaceStation.dll
+D:\Austranaut\obj\Debug\netcoreapp2.1\SpaceStation.pdb
